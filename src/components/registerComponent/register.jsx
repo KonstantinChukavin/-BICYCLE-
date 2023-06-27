@@ -5,7 +5,7 @@ import { ButtonInRegisterForm } from '../buttons/buttonInRegisterForm'
 export const RegisterComponent = () => {
     return (
         <>
-           <div className='wrapper_for_register_form'>
+            <div className='wrapper_for_register_form'>
             <div className='register_form'>
                 <h1>Зарегистрироваться</h1>
                 <input className='input_register'
